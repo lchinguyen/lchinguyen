@@ -9,5 +9,7 @@ My strong background in Electrical Engineering and Computer Sciences, Signal Pro
 My work is driven by innovation and commitment, with the goal of creating meaningful impacts that enhance people’s lives, anchor with safety-aligned, elevate user experiences and human-computer interactions. I am highly motivated, passionate, and open to collaborate with engineers and researchers across multidisciplinary technical areas and teams to deliver solutions that benefit all humanity and beyond!
 
 Github: https://github.com/lchinguyen
+
 Kaggle: https://www.kaggle.com/chinguyen06
+
 Devpost: https://devpost.com/ChiLinhNguyen
