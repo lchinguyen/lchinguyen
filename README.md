@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-Hi! I'm currently a Student@BU studying Computer Engineering with a minor in EE.
 
-📩: chi2006@bu.edu
+My background in Electrical Engineering and Computer Sciences, especially Neuroengineering are advancing most capabilities of modern AGI Research through Neural Interfaces Technology, specialize in Core Models Pipelines Training & ML Infra development, Speech/Audio DSP Products, and mainly Linguistic Modeling (NLP) Engineer, working on improve Human Data feedback insights specifically in Multimodal Intelligence Systems + Decision-Making areas.
 
-My strong background in Electrical Engineering and Computer Sciences, Signal Processing, especially Neuroengineering applications would contribute toward modern AGI Research in Neural Interfaces Technology, Cognitive Computing, LLMs Evaluation, NLP, Speech decoding/Audio processing, specialize in Core Models Training & Data Analyst, Linguistics Modeling Engineer for any technology business industries, and improving Human Data feedback insights (RLHF) in Multimodal Intelligence Systems + Decision-Making areas.
 
-I’m also open to work as a Research Engineer Intern at Entry-level or MTS roles specifically in the Superintelligence AGI Software & Data Team!
 
 
