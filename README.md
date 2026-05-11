@@ -10,7 +10,7 @@ You can reach me at: [chi2006@bu.edu](mailto:chi2006@bu.edu) or [connect on Link
 
 - **Tools:** Git/GitHub, GitLab, CI/CD, React, Node.js, FastAPI, Streamlit, Microservices, Distributed Systems
 
-- **IDE Integration/Debugging:** VS Code, IntelliJ, GDB
+- **IDE/Debugging:** VS Code, IntelliJ, GDB
 
 - **DevOps/Cloud & Databases Monitoring:** Docker, Kubernetes, MLOps, Linux, Databricks, AWS, GCP, Jenkins, Terraform, PostgreSQL, MongoDB
 
