@@ -4,7 +4,7 @@ You can reach me at: [chi2006@bu.edu](mailto:chi2006@bu.edu) or [connect on Link
 
 ## Skills
 
-- **Languages:** Python, R, C/C#/C++, PyTorch, TensorFlow, Scikit-learn, JavaScript, TypeScript, MATLAB
+- **Languages:** Python, R, C/C#/C++, PyTorch, TensorFlow, Scikit-learn, JavaScript
 
 - **Frameworks & Libraries:** build SaaS Applications with LLM APIs/SDK deployment, LangChain/Hugging Face Transformers, Multi-Agent developer assistant tools, Hyperparameter Tuning & Inference Optimization, Embedding Models, RAG, MCP, RLHF, LlamaIndex, Vector Databases
 
