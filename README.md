@@ -8,7 +8,7 @@ You can reach me at: [chi2006@bu.edu](mailto:chi2006@bu.edu) or [connect on Link
 
 - **Frameworks & Libraries:** build SaaS Applications with LLM APIs/SDK deployment, LangChain/Hugging Face Transformers, Multi-Agent developer assistant tools, Hyperparameter Tuning & Inference Optimization, Embedding Models, RAG, MCP, RLHF, LlamaIndex, Vector Databases
 
-- **Tools:** Git/GitHub, GitLab, CI/CD, React, Node.js, FastAPI, Streamlit, Microservices, Distributed Systems
+- **Tools:** Git/GitHub, GitLab, CI/CD, FastAPI, Streamlit, Microservices, Distributed Systems
 
 - **IDE/Debugging:** VS Code, IntelliJ, GDB
 
